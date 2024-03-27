@@ -1,2 +1,3 @@
-Bot for Legend of Mushroom
-Will automatically send and equip stuff
+Bot for the game 'Legend of Mushroom'. <br>
+Able to equip and sell automatically equipement from the lamp. <br>
+Press 'ESC' to stop it 
